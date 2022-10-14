@@ -7,11 +7,12 @@ This application useful for manage task and manage task notification to end user
 
 Using most of Nhost features!!! 
 
-## User registeration
-## User singup 
+## User Registeration
+## User Singup 
 ## User authentication
+## Task managment 
 
-## This application using another platform for manage notification that is https://web.novu.co/settings
+## Task notificaiton management -Using platform for manage notification that is https://web.novu.co/settings
 
 #### steps to run application  
 
