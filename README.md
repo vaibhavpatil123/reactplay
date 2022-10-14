@@ -11,9 +11,9 @@ Using most of Nhost features!!!
 ## User singup 
 ## User authentication
 
-++ This application using another platform for manage notification that is https://web.novu.co/settings
+## This application using another platform for manage notification that is https://web.novu.co/settings
 
-// steps to run application  
+#### steps to run application  
 
 1. npm install 
 2. app.js below lines with actual domain information 
@@ -29,3 +29,5 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
   defaultOptions: defaultOptions,
 });
+
+Thanks you!!!
